@@ -3,7 +3,7 @@
         'name' => 'rafli-insan/belajar-php-mvc',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'dc171f50553ec120171288feaa4c432cf08e9da4',
+        'reference' => 'cf4cf37f855ee5f2f2a90a1c42a5a75371cf065a',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -166,7 +166,7 @@
         'rafli-insan/belajar-php-mvc' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'dc171f50553ec120171288feaa4c432cf08e9da4',
+            'reference' => 'cf4cf37f855ee5f2f2a90a1c42a5a75371cf065a',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

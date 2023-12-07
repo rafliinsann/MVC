@@ -2,20 +2,12 @@
 
 namespace RafliInsan\BelajarPhpMvc\View;
 
-class Index
-{    function index(): void
+class lndex
+{    function lndex(): void
     {
         echo "";
     }
 }
-
-    session_start();
-    require "connect.php";
-    if (isset($_SESSION['status'])== "") {
-        header('location:/tamu');
-    }
-
-    $i = 0;
 
 ?>
 <!doctype html>
@@ -64,17 +56,9 @@ class Index
             </ul>
             <div class="navbar-text">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item me-1">
-                  <a class="nav-link text-white" href="#"><img src="assest/img/avatar.png" alt="avatar"></a>
-                </li>
                 <li class="nav-item me-4">
-                <div class="dropdown">
-                <button class="nav-link text-white dropdown-toggle" style="margin-top: 15px;" type="button" data-bs-toggle="dropdown" aria-expanded="false">Hi, <?php echo $_SESSION['nama'] ?>!</button>
-                <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Setting</a></li>
-                    <li><a class="dropdown-item" href="logout.php">Logout</a></li>
-                </ul>
-                </div>
+                    <a class="nav-link text-white" href="login">Masuk</a>
+                </li>
               </ul>
             </div>
           </div>

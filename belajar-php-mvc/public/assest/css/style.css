@@ -1,0 +1,106 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.warna1 {
+    background-color: #0F4C75;
+    color: white;
+}
+
+.warna2 {
+    background-color: #2A97B4;
+    color: white;
+
+}
+
+
+.btn-home {
+    border: none;
+    width: 163px;
+    height: 41px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.navbar1{
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 18px;
+}
+
+.judul-navbar{
+    font-weight: 700;
+    
+}
+
+.margin-home {
+    margin-top: 93px;
+}
+
+.paragraf-home {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.card-home {
+    box-shadow: 4px 4px 4px 1px #000;    
+}
+
+.card-home-1 {
+    width: 228px;
+    height: 82px;
+    box-shadow: 4px 4px 4px 1px #00000000 ;
+}
+
+.judul-card-home {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.paragraf-card-home {
+    padding-left: 15px;
+    font-weight: 300;
+}
+
+.button-card-home {
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
+.page2{
+    margin-top: 180px;
+}
+
+.subtitle {
+    font-weight: 700;
+}
+
+.card-about {
+    background-color: #0F4C75;
+    padding: 42px 106px;
+}
+
+.card-about-isi {
+    background-color: #3182B7;
+    color: white;
+    width: 233px;
+    height: 296px;
+}
+
+.paragraf-about {
+    padding-left: 29px;
+    padding-right: 29px;
+}
+
+.title-card-about {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.footer-bg{
+    background-color: #0F4C75;
+}
